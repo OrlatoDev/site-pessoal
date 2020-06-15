@@ -1,0 +1,19 @@
+#scrollpath{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 0.5%;
+    height: 100%;
+    background: #13141836;
+}
+#preogressbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 0.5%;
+    height: 50%;
+    background: #131313;
+}
+::-webkit-scrollbar{
+    width: 0;
+}
